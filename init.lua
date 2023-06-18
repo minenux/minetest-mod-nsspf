@@ -12,4 +12,4 @@ mod.dat = {}
 dofile(mod.path.."/mushrooms.lua")
 dofile(mod.path.."/spawn.lua")
 
-print("[MOD] loaded nsspf")
+print("[MOD] loaded nsspf ver "..mod.version)
